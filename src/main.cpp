@@ -187,7 +187,7 @@ bool keepAliveTimeOutHandler(HomieRange range, String value)
 }
 
 /*
- * Timer handler
+ * Timer handler for testing
  */
 bool relay1TimerHandler(HomieRange range, String value)
 {
